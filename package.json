@@ -1,5 +1,5 @@
 {
-  "name": "viewport-device-size",
+  "name": "device-viewport-size",
   "version": "1.0.0",
   "description": "Viewport device sizes",
   "main": "dist/lib/index.js",

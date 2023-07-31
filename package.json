@@ -1,0 +1,29 @@
+{
+  "name": "viewport-size",
+  "version": "1.0.0",
+  "description": "Viewport device sizes",
+  "main": "dist/lib/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artembuslaev/viewport-size.git"
+  },
+  "keywords": [
+    "viewport",
+    "devices",
+    "sizes",
+    "screen",
+    "resolution"
+  ],
+  "author": "Artem Buslaev & Denis Karpov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artembuslaev/viewport-size/issues"
+  },
+  "homepage": "https://github.com/artembuslaev/viewport-size#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
